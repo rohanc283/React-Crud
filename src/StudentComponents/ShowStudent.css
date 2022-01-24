@@ -1,0 +1,33 @@
+.show {
+    margin-top: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.card {
+    margin: 10px;
+    border: 2px solid springgreen;
+}
+
+.cardcontent,
+.cardactions {
+    background-color: violet;
+}
+
+.delete {
+    text-decoration: none;
+    color: red;
+    font-size: 25px;
+    font-weight: bold;
+    margin-left: 15px;
+}
+
+.edit {
+    text-decoration: none;
+    color: green;
+    font-size: 25px;
+    font-weight: bold;
+    margin-left: 15px;
+}

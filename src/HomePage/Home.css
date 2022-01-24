@@ -1,0 +1,9 @@
+.home {
+    margin-top: 120px;
+    display: flex;
+    width: 100%;
+    height: fit-content;
+    justify-content: center;
+    align-items: center;
+    color: violet;
+}
