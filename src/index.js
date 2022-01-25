@@ -9,7 +9,7 @@ import finalStore from './store/Store';
 
 ReactDOM.render(
   <React.StrictMode>
-    <BrowserRouter >
+    <BrowserRouter basename={process.env.PUBLIC_URL} >
       <Provider store={finalStore}>
         <App />
       </Provider>
