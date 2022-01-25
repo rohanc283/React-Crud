@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Crud/static/css/main.b01514d6.css",
+    "main.js": "/React-Crud/static/js/main.b20d7136.js",
+    "static/js/787.21c5cfff.chunk.js": "/React-Crud/static/js/787.21c5cfff.chunk.js",
+    "index.html": "/React-Crud/index.html",
+    "main.b01514d6.css.map": "/React-Crud/static/css/main.b01514d6.css.map",
+    "main.b20d7136.js.map": "/React-Crud/static/js/main.b20d7136.js.map",
+    "787.21c5cfff.chunk.js.map": "/React-Crud/static/js/787.21c5cfff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b01514d6.css",
+    "static/js/main.b20d7136.js"
+  ]
+}
